@@ -1,0 +1,3 @@
+print to file
+show in file
+show on console
